@@ -46,10 +46,10 @@ char   gSZ_ModelData[MAX_MODELS][PMData_Count][PLATFORM_MAX_PATH];
 public Plugin myinfo =
 {
 	name        = "ModelChooser",
-	author      = "GameChaos, Sikari",
-	description = "ModelChooser with clientprefs support",
-	version     = "4.1k",
-	url         = "https://github.com/zer0k-z/player-model-changer"
+	author      = "Reeed",
+	description = "ModelChooser with support for multiple-level configuration",
+	version     = "0.1",
+	url         = "https://github.com/jonahbearde/model-chooser"
 };
 
 // ======================= MAIN CODE ========================= //
